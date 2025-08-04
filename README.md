@@ -1,1 +1,2 @@
-# this is a job portal
+# Job searching portal
+ developed a job searching portal using PHP, HTML, CSS, Bootstrap, Tailwind, JavaScript, and SQL. The platform allows users to search and apply for jobs, while employers can post openings and manage applications. It features a responsive UI, secure login system, and dynamic data handling for a smooth user experience.
